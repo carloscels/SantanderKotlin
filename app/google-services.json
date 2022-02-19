@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822354129891",
+    "project_id": "santanderdevweek-5e9ae",
+    "storage_bucket": "santanderdevweek-5e9ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822354129891:android:a33931f257cc4ba675e6d6",
+        "android_client_info": {
+          "package_name": "com.example.santanderdevweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822354129891-k969t6faftu6u5piqg72k8tjjjieu6fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQoUAlrgJtW8KtVqn5DmK0C_pavEC7aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822354129891-k969t6faftu6u5piqg72k8tjjjieu6fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
